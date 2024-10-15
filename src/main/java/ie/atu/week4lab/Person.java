@@ -30,7 +30,4 @@ public class Person {
 
     @NotBlank(message = "Department cannot be Blank")
     private String department;
-
-
-
 }
